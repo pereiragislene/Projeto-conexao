@@ -1,4 +1,4 @@
-Projeto-conexao
+Projeto Conexao
 ===============
 
 Exercícios do Projeto Conexão.
