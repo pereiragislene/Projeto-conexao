@@ -4,6 +4,7 @@ O aluno será Aprovado a média de suas notas for > 6
 O aluno será Reprovado se a média de suas notas for < 4
 O aluno deverá fazer a prova se a média de suas notas for >= 4 e < 6
 
+
 Média das notas: (Nota1 + Nota2 + Nota3) / 3
 
 public class SituacaoAluno {
