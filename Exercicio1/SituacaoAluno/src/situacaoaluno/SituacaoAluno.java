@@ -35,14 +35,6 @@ public class SituacaoAluno {
             System.out.println("Você está na recuperação final");
         }else{
             System.out.println("Reprovado");
-        }
-        
-        
-        
-            
-       
-        
-       
-    
-}
+        }        
+    }
 }
